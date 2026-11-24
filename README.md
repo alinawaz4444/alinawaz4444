@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ali Nawaz 👋
+### Flutter & Web Developer | AI Chatbots & Automation | Pakistan
 
-<!--
-**alinawaz4444/alinawaz4444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build modern, fast and professional apps and websites, and AI chatbots that automate business work.
 
-Here are some ideas to get you started:
+## What I do
+- 📱 Flutter Apps — AI-powered Android & iOS apps with Firebase
+- 🌐 Modern Websites — responsive, SEO-friendly, fast-loading
+- 🤖 AI Chatbots & Automation — chatbots and AI agents for business
+- 🎬 AI Content — AI-generated videos and social media content
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hire me
+- Fiverr: https://www.fiverr.com/alinawaz4444
+- Upwork: Flutter project in Project Catalog (search: Ali Nawaz — Develop an AI-powered Flutter mobile app)
+- Email: dreammr085@gmail.com
+
+## Tech I use
+Flutter • Dart • Firebase • React • JavaScript • HTML/CSS • AI Agents • Chatbots
